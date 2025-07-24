@@ -1,6 +1,6 @@
 # Hi, I'm Shaurya 👋
 
-I'm a self-driven developer with hands-on experience in **HTML**, **C**, **Java**, and **Lua**. I'm currently sharpening my skills by building small projects, learning best practices, and exploring open-source.
+I'm a self-driven developer with hands-on experience in **HTML**, **C**, **Java**, **Python** and **Lua**. I'm currently sharpening my skills by building small projects, learning best practices, and exploring open-source.
 
 ## 🧠 What I Know
 - 🖥️ HTML for web structure and layout
